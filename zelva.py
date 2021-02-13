@@ -1,3 +1,10 @@
+""" skript pro vykresleni odelniku/ctverce s prerusovanou carou,
+jejiz velikost se meni
+- vykersli 3 obdelniky s rotaci
+ISSUES:
+    -ruzna velikost stran u obdelniku
+"""
+
 from turtle import forward, right, pendown, penup, exitonclick
 
 a = float(input('delka a:'))
