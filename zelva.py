@@ -4,6 +4,7 @@ jejiz velikost se meni
 ISSUES:
     -ruzna velikost stran u obdelniku
 """
+""" zkouska git branch """
 
 from turtle import forward, right, pendown, penup, exitonclick
 
