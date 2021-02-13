@@ -6,6 +6,7 @@ ISSUES:
 """
 """ zkouska git branch """
 
+""" git tutor - doplneni jmena """
 from turtle import forward, right, pendown, penup, exitonclick
 
 a = float(input('delka a:'))
